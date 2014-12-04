@@ -1,0 +1,74 @@
+body {
+	background-color: silver;
+	font-family: "Trebuchet MS", helvetica, sans-serif;
+	margin: 0;
+}
+
+label {
+	display: block;
+	width: 200px;
+}
+
+input, select, textarea {
+	margin-bottom: 10px;
+	border: 1px solid black;
+	border-radius: 3px;
+}
+
+input:focus, select:focus, textarea:focus {
+	border: 1px solid blue;
+	box-shadow: 0 0 5px blue;
+}
+
+fieldset {
+	border: 2px solid black;
+	border-radius: 8px;
+	box-shadow: 4px 4px 2px gray;
+}
+
+legend {
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+}
+
+button {
+	background-color: black;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	margin: 10px;
+	font-size: 15px;
+	min-width: 150px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th {
+	background-color: silver;
+}
+
+tr:nth-child(odd) {
+	background-color: lightyellow;
+}
+
+td, th {
+	border: 1px solid black;
+	padding: 4px;
+}
+
+td.acoes {
+	text-align: center;
+}
+
+.container {
+	background-color: white;
+	border: 1px solid black;
+	margin: auto;
+	padding: 20px;
+	width: 960px;
+}
