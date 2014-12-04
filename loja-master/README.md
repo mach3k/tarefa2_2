@@ -1,6 +1,9 @@
 loja
 ====
 
-Projeto exemplo para as aulas de Programação Web com a turma TSI14
+Trabalho Final da disciplina de Programação Web
 
-Implementação de uma versão SIMPLIFICADA de uma loja virtual
+Alunos:
+Marcelo Ramos Machado
+Raphael Amaral
+Wilson Matheus Dudas
